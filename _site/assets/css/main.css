@@ -1,5 +1,5 @@
-@import url(http://fonts.googleapis.com/css?family=Lato:400,700,900,400italic);
-@import url(http://fonts.googleapis.com/css?family=Dosis:300,400);
+@import url(https://fonts.googleapis.com/css?family=Lato:400,700,900,400italic);
+@import url(https://fonts.googleapis.com/css?family=Dosis:300,400);
 
 html {
     width: 100%;
@@ -10,7 +10,7 @@ html {
 body {
     width: 100%;
     height: 100%;
-    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; /* http://css-tricks.com/snippets/css/better-helvetica/ */
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; /* https://css-tricks.com/snippets/css/better-helvetica/ */
     font-weight: 300;
     color: #fff;
     background-color: #292c33;
