@@ -1,14 +1,20 @@
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+title: WikiToLearn India Conference
+email: srijan@wikitolearn.org
+description:  # this means to ignore newlines until "baseurl:"
+  WikiToLearnConf India is a global event comprising WikiToLearn, Mediawiki and KDE developers from all over India and world.
+
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: wikitolearn
+github_username:  wikitolearn
+google_analytics_tracking_id:  #needs to be updated
 
 # Build settings
 markdown: kramdown
+kramdown:
+  input: GFM
+highlighter: rouge
+sass:
+  sass_dir: _sass
+  style: compressed
